@@ -102,14 +102,14 @@ cd jellybots
     DB_PASSWORD=senha_do_seu_banco_de_dados
     ```
 
-1. **Criação do banco de dados**
+9. **Criação do banco de dados**
 
 -   Utilize o phpMyAdmin ou MySQL Workbench para criar um banco de dados chamado LaravelDB.
     ```bash
     CREATE DATABASE LaravelDB;
     ```
 
-10. **Migração do Banco de Dados**
+10.  **Migração do Banco de Dados**
 
 -   Execute no terminal o comando para realizar as migrações do banco de dados e criar as tabelas.
     ```bash
