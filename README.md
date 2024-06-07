@@ -92,7 +92,7 @@ cd jellybots
 
 8. **Configuração do arquivo .env**
 
-    - Abra o arquivo `.env` e insira as informações de conexão do banco de dados.
+-   Abra o arquivo `.env` e insira as informações de conexão do banco de dados.
     ```bash
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
@@ -102,7 +102,7 @@ cd jellybots
     DB_PASSWORD=senha_do_seu_banco_de_dados
     ```
 
-9. **Criação do banco de dados**
+1. **Criação do banco de dados**
 
 -   Utilize o phpMyAdmin ou MySQL Workbench para criar um banco de dados chamado LaravelDB.
     ```bash
