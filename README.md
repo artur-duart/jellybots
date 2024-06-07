@@ -77,14 +77,14 @@ Para instalar e utilizar este projeto, siga cuidadosamente estes passos:
 
 6. **Navegação até a pasta principal do projeto**
 
-```bash
-cd jellybots
-```
+   - Navegue até a pasta principal do projeto.
+   ```bash
+   cd jellybots
+   ```
 
 7. **Instalação das Dependências do Composer**
 
     - O Laravel utiliza o Composer para o gerenciamento de suas dependências PHP.
-    - Navegue até a pasta principal do projeto.
     - Execute `composer install` no terminal para instalar as dependências PHP.
         ```bash
         composer install
