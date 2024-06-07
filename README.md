@@ -77,7 +77,7 @@ Para instalar e utilizar este projeto, siga cuidadosamente estes passos:
 
 6. **Navegação até a pasta principal do projeto**
 
-   - Navegue até a pasta principal do projeto.
+    - Navegue até a pasta principal do projeto.
         ```bash
         cd jellybots
         ```
@@ -92,50 +92,50 @@ Para instalar e utilizar este projeto, siga cuidadosamente estes passos:
 
 8. **Configuração do arquivo .env**
 
--   Abra o arquivo `.env` e insira as informações de conexão do banco de dados.
-    ```bash
-    DB_CONNECTION=mysql
-    DB_HOST=127.0.0.1
-    DB_PORT=3306
-    DB_DATABASE=LaravelDB
-    DB_USERNAME=root
-    DB_PASSWORD=senha_do_seu_banco_de_dados
-    ```
+    - Abra o arquivo `.env` e insira as informações de conexão do banco de dados.
+        ```bash
+        DB_CONNECTION=mysql
+        DB_HOST=127.0.0.1
+        DB_PORT=3306
+        DB_DATABASE=LaravelDB
+        DB_USERNAME=root
+        DB_PASSWORD=senha_do_seu_banco_de_dados
+        ```
 
 9. **Criação do banco de dados**
 
--   Utilize o phpMyAdmin ou MySQL Workbench para criar um banco de dados chamado LaravelDB.
-    ```bash
-    CREATE DATABASE LaravelDB;
-    ```
+    - Utilize o phpMyAdmin ou MySQL Workbench para criar um banco de dados chamado LaravelDB.
+        ```bash
+        CREATE DATABASE LaravelDB;
+        ```
 
-10.  **Migração do Banco de Dados**
+10. **Migração do Banco de Dados**
 
--   Execute no terminal o comando para realizar as migrações do banco de dados e criar as tabelas.
-    ```bash
-    php artisan migrate
-    ```
+    - Execute no terminal o comando para realizar as migrações do banco de dados e criar as tabelas.
+        ```bash
+        php artisan migrate
+        ```
 
 11. **Instalação das Dependências do Node.js**
 
--   Instale as dependências do Node.js.
-    ```bash
-    npm install
-    ```
+    - Instale as dependências do Node.js.
+        ```bash
+        npm install
+        ```
 
 12. **Compilação dos Ativos**
 
--   Compile os ativos de JavaScript e CSS.
-    ```bash
-    npm run dev
-    ```
+    - Compile os ativos de JavaScript e CSS.
+        ```bash
+        npm run dev
+        ```
 
 13. **Inicialização do Servidor de Desenvolvimento**
 
--   Utilize o Artisan ou o XAMPP para iniciar o servidor de desenvolvimento do Laravel. Execute o comando abaixo no terminal.
-    ```bash
-    php artisan serve
-    ```
+    - Utilize o Artisan ou o XAMPP para iniciar o servidor de desenvolvimento do Laravel. Execute o comando abaixo no terminal.
+        ```bash
+        php artisan serve
+        ```
 
 Agora você pode acessar o projeto Laravel em seu navegador através de `http://localhost:8000`.
 
