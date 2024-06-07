@@ -78,9 +78,9 @@ Para instalar e utilizar este projeto, siga cuidadosamente estes passos:
 6. **Navegação até a pasta principal do projeto**
 
    - Navegue até a pasta principal do projeto.
-   ```bash
-   cd jellybots
-   ```
+        ```bash
+        cd jellybots
+        ```
 
 7. **Instalação das Dependências do Composer**
 
