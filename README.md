@@ -32,9 +32,15 @@ Convidamos você a explorar nosso projeto e juntar-se a nós na jornada para um 
 - Laravel
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
+- Bootstrap
 - MySQL
+
+## 🔒 Testes de Qualidade de Código e Segurança
+
+Os testes de qualidade de código foram executados com o SonarQube, enquanto os testes de segurança da aplicação foram executados com o OWASP ZAP.
+
+Os testes foram documentados neste [documento](TESTES.md).
 
 ## ⚙️ Instalação e Uso
 
