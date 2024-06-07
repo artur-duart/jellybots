@@ -1,5 +1,9 @@
 # JellyBots: Uma Iniciativa da WaveX Company
 
+
+https://github.com/artur-duart/jellybots/assets/79976674/043972ab-0683-4edd-a333-e31c9d74c96d
+
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/artur-duart/jellybots">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/artur-duart/jellybots">
